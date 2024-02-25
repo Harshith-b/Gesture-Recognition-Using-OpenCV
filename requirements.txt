@@ -1,0 +1,15 @@
+opencv-python cv2
+mediapipe
+scikit-learn
+numpy
+os
+pickel
+keyboard
+
+WHY using the algorithm randomforestclassifier
+      Ensemble Learning
+      High Accuracy
+      Feature Importance
+      Reduced Risk of Overfitting
+      Easy to Use
+      Handles High-Dimensional Data
